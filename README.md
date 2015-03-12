@@ -1,13 +1,13 @@
 # Essential-Frontend-Tools-Frameworks
-List of Tools, Libraries and Frameworks a Frond-end developer must know.
+List of Tools, Libraries and Frameworks Essential for a  Frond-end developer.
 
 # JavaScript
 
 
 **Frameworks**
 
-- [AngularJS](https://angularjs.org/) (Superheroic mvw )
-- [Meteor](https://www.meteor.com/) (Client+Server )
+- [AngularJS](https://angularjs.org/) ( Superheroic mvw )
+- [Meteor](https://www.meteor.com/) ( Client+Server )
 - [EmberJS](http://emberjs.com/)
 - [Backbone](http://backbonejs.org/) 
 - [Knockout](http://knockoutjs.com/)
@@ -62,10 +62,10 @@ List of Tools, Libraries and Frameworks a Frond-end developer must know.
 
 - [Grunt](http://gruntjs.com/) ( Task automator )
 - [Bower](http://bower.io/) ( Package manager like npm )
-- [Gulp](http://gulpjs.com/ "new") ( Automates work flow )
+- [Gulp](http://gulpjs.com/ "new") ( Automate work flow )
 - [Yeoman](http://yeoman.io/) ( Builds scaffolds to start with )
 
-**JS Preprocessors** (Compiles into normal js)
+**JS Preprocessors** ( Compiles into normal js )
 
 - [Coffeescript](http://coffeescript.org/) ( The golden rule of CoffeeScript is: "It's just JavaScript". )
 - [Typescript](http://www.typescriptlang.org/) ( Typed superset of JS from microsoft )
@@ -105,13 +105,13 @@ List of Tools, Libraries and Frameworks a Frond-end developer must know.
 
 **CSS Frameworks**
 
-- [Bootstrap](http://getbootstrap.com/) ( Widely used )
+- [Bootstrap](http://getbootstrap.com/)
 - [Foundation by zurb](http://foundation.zurb.com/)
 - [HTML5 Boilerplate](https://html5boilerplate.com/) ( Opensource starter template containing best practices )
 
 
 
-**CSS Preprocessors** (Compiles into normal css : less repetition and more manageability)
+**CSS Preprocessors** ( Compiles into normal css : less repetition and more manageability )
 
 - [Sass](http://sass-lang.com/)
 - [Less](http://lesscss.org/)
@@ -127,3 +127,4 @@ List of Tools, Libraries and Frameworks a Frond-end developer must know.
 - [Responsinator](http://www.responsinator.com/)
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
 - [Fontello](http://fontello.com/)
+- [BrowserSync](http://www.browsersync.io/)
