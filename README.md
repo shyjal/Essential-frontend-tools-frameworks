@@ -117,7 +117,7 @@ List of Tools, Libraries and Frameworks Essential for a  Frond-end developer.
 - [Less](http://lesscss.org/)
 
 
-**Useful stuffs**
+# Useful stuffs
 
 - [JSBeautifier](www.jsbeautifier.com)
 - [JSLint](www.jslint.com)
