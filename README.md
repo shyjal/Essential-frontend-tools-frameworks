@@ -63,6 +63,24 @@ List of Tools, Libraries and Frameworks Essential for a  Frond-end developer.
 - [Ionic Framework](http://ionicframework.com/)
 
 
+# CSS
+
+
+
+**CSS Frameworks**
+
+- [Bootstrap](http://getbootstrap.com/)
+- [Foundation by zurb](http://foundation.zurb.com/)
+- [HTML5 Boilerplate](https://html5boilerplate.com/) ( Opensource starter template containing best practices )
+
+
+
+**CSS Preprocessors** ( Compiles into normal css : less repetition and more manageability )
+
+- [Sass](http://sass-lang.com/)
+- [Less](http://lesscss.org/)
+
+
 # General
 
 **Web components**
@@ -91,24 +109,10 @@ List of Tools, Libraries and Frameworks Essential for a  Frond-end developer.
   - [Velocity.js](http://julian.com/research/velocity/)
   - [Animate.css](http://daneden.github.io/animate.css/)
 
-
-
-# CSS
-
-
-
-**CSS Frameworks**
-
-- [Bootstrap](http://getbootstrap.com/)
-- [Foundation by zurb](http://foundation.zurb.com/)
-- [HTML5 Boilerplate](https://html5boilerplate.com/) ( Opensource starter template containing best practices )
-
-
-
-**CSS Preprocessors** ( Compiles into normal css : less repetition and more manageability )
-
-- [Sass](http://sass-lang.com/)
-- [Less](http://lesscss.org/)
+**Nice to know**
+  - [How Javascript works](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+  - [Browser Diet](http://browserdiet.com/en/)
+  - [You might not need jQuery](http://youmightnotneedjquery.com/)
 
 
 # Useful stuffs
