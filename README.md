@@ -6,11 +6,11 @@ List of Tools, Libraries and Frameworks Essential for a  Frond-end developer.
 
 **Frameworks**
 
-- [AngularJS](https://angularjs.org/) ( Superheroic mvw )
-- [Meteor](https://www.meteor.com/) ( Client+Server )
+- [AngularJS](https://angularjs.org/) ( Superheroic MVW )
+- [Meteor](https://www.meteor.com/) ( Client + Server )
 - [EmberJS](http://emberjs.com/)
 - [Backbone](http://backbonejs.org/) 
-- [Knockout](http://knockoutjs.com/)
+- [Knockout](http://knockoutjs.com/) ( Simplify dynamic JavaScript UIs with MVVM )
 
 
 **UI Frameworks**
@@ -35,11 +35,47 @@ List of Tools, Libraries and Frameworks Essential for a  Frond-end developer.
 
 
 
-**Other Libs**
+**Other Libraries**
 
 - [RequireJS](http://requirejs.org/) ( Include modules to your application )
 - [Modernizr](http://modernizr.com/) ( Feature detection )
 - [Normalize.css](http://necolas.github.io/normalize.css/) ( Handle styles for different browsers the html5 way )
+
+
+
+**Productivity boosters**
+
+- [Grunt](http://gruntjs.com/) ( Task automator )
+- [Bower](http://bower.io/) ( Package manager like npm )
+- [Gulp](http://gulpjs.com/ "new") ( Automate work flow )
+- [Yeoman](http://yeoman.io/) ( Builds scaffolds to start with )
+
+**JS Preprocessors** ( Compiles into normal js )
+
+- [Coffeescript](http://coffeescript.org/) ( The golden rule of CoffeeScript is: "It's just JavaScript". )
+- [Typescript](http://www.typescriptlang.org/) ( Typed superset of JS from microsoft )
+
+**Mobile specific**
+
+- [jQuery Mobile](http://jquerymobile.com/) ( If you know jquery you already know this ) 
+- [Sencha touch](http://www.sencha.com/products/touch/)
+- [HammerJS](http://hammerjs.github.io/) / [QuoJS](http://quojs.tapquo.com/) ( Better touch event handlers )
+- [Ionic Framework](http://ionicframework.com/)
+
+
+# General
+
+**Web components**
+
+- [Polymer](https://www.polymer-project.org) by Google
+- [WebComponents](www.webcomponents.org)
+
+
+**UI kits**
+
+- [Dojo](http://dojotoolkit.org/) 
+- [KendoUI](http://www.telerik.com/kendo-ui) 
+
 
 
 
@@ -55,47 +91,6 @@ List of Tools, Libraries and Frameworks Essential for a  Frond-end developer.
   - [Move.js](http://visionmedia.github.io/move.js/) ( jQuery like animation with css3 transitions )
   - [Velocity.js](http://julian.com/research/velocity/)
   - [Animate.css](http://daneden.github.io/animate.css/)
-
-
-
-**Other - Productivity boosters**
-
-- [Grunt](http://gruntjs.com/) ( Task automator )
-- [Bower](http://bower.io/) ( Package manager like npm )
-- [Gulp](http://gulpjs.com/ "new") ( Automate work flow )
-- [Yeoman](http://yeoman.io/) ( Builds scaffolds to start with )
-
-**JS Preprocessors** ( Compiles into normal js )
-
-- [Coffeescript](http://coffeescript.org/) ( The golden rule of CoffeeScript is: "It's just JavaScript". )
-- [Typescript](http://www.typescriptlang.org/) ( Typed superset of JS from microsoft )
-
-
-
-**UI kits**
-
-- [Dojo](http://dojotoolkit.org/) 
-- [KendoUI](http://www.telerik.com/kendo-ui) 
-
-
-
-
-
-**Web components**
-
-- [Polymer](https://www.polymer-project.org) by Google
-- [WebComponents](www.webcomponents.org)
-
-
-
-**Mobile specific**
-
-- [jQuery Mobile](http://jquerymobile.com/) ( If you know jquery you already know this ) 
-- [Sencha touch](http://www.sencha.com/products/touch/)
-- [HammerJS](http://hammerjs.github.io/) / [QuoJS](http://quojs.tapquo.com/) ( Better touch event handlers )
-- [Ionic Framework](http://ionicframework.com/)
-
-
 
 
 
