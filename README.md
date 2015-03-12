@@ -78,7 +78,6 @@ List of Tools, Libraries and Frameworks Essential for a  Frond-end developer.
 
 
 
-
 **Graphic**
 
 - Visualization
