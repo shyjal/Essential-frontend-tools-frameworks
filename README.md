@@ -110,7 +110,7 @@ List of Tools, Libraries and Frameworks Essential for a  Frond-end developer.
   - [Animate.css](http://daneden.github.io/animate.css/)
 
 **Nice to know**
-  - [How Javascript works](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+  - [How Javascript works in browser](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
   - [Browser Diet](http://browserdiet.com/en/)
   - [You might not need jQuery](http://youmightnotneedjquery.com/)
 
