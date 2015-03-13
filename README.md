@@ -118,7 +118,8 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 
 
 # Useful stuffs
-
+- [SubmlimeText](http://www.sublimetext.com/) / [Brackets](http://brackets.io/)
+- [Chrome Dev tools](https://developer.chrome.com/devtools) / [Brackets](https://addons.mozilla.org/en-us/firefox/addon/firebug/)
 - [JSBeautifier](www.jsbeautifier.com)
 - [JSLint](www.jslint.com)
 - [Google fonts](http://www.google.com/fonts/)
@@ -128,3 +129,4 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
 - [Fontello](http://fontello.com/)
 - [BrowserSync](http://www.browsersync.io/)
+- [Postman](http://www.getpostman.com/)
