@@ -119,7 +119,7 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 
 # Useful stuffs
 - [SubmlimeText](http://www.sublimetext.com/) / [Brackets](http://brackets.io/)
-- [Chrome Dev tools](https://developer.chrome.com/devtools) / [Brackets](https://addons.mozilla.org/en-us/firefox/addon/firebug/)
+- [Chrome Dev tools](https://developer.chrome.com/devtools) / [Firebug](https://addons.mozilla.org/en-us/firefox/addon/firebug/)
 - [JSBeautifier](www.jsbeautifier.com)
 - [JSLint](www.jslint.com)
 - [Google fonts](http://www.google.com/fonts/)
