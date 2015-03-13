@@ -1,5 +1,5 @@
 # Essential-Frontend-Tools-Frameworks
-A curated list of Tools, Libraries and Frameworks essential for every Frond-end developer.
+A curated list of Tools, Libraries and Frameworks essential for every Frond-end developers.
 
 For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) by dypsilon
 
@@ -17,7 +17,7 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 
 **UI Frameworks**
 
-- [ReactJS](http://facebook.github.io/react/) ( Virtual dom : fast dom manipulation )
+- [ReactJS](http://facebook.github.io/react/) ( The V in MVX ,Fast dom manipulation with Virtual dom )
 - [Famo.us](https://famo.us) ( Hardware accelerated engine )
 
 
