@@ -115,7 +115,7 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
   - [How Javascript works in browser](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
   - [Browser Diet](http://browserdiet.com/en/)
   - [You might not need jQuery](http://youmightnotneedjquery.com/)
-
+  - [Introduction to webcomponents](https://www.youtube.com/watch?v=fqULJBBEVQE)
 
 # Useful stuffs
 - [SubmlimeText](http://www.sublimetext.com/) / [Brackets](http://brackets.io/)
