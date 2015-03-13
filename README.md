@@ -1,5 +1,7 @@
 # Essential-Frontend-Tools-Frameworks
-List of Tools, Libraries and Frameworks Essential for a  Frond-end developer.
+A Curated list of Tools, Libraries and Frameworks essential for every Frond-end developer.
+
+For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) by dypsilon
 
 # JavaScript
 
