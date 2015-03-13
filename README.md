@@ -77,7 +77,7 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 
 
 
-**CSS Preprocessors** ( Compiles into normal css : less repetition and more manageability )
+**CSS Preprocessors** ( Compiles into normal css : less repetition, more manageability )
 
 - [Sass](http://sass-lang.com/)
 - [Less](http://lesscss.org/)
@@ -88,7 +88,7 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 **Web components**
 
 - [Polymer](https://www.polymer-project.org) by Google
-- [WebComponents](www.webcomponents.org)
+- [WebComponents](http://www.webcomponents.org)
 
 
 **UI kits**
@@ -120,8 +120,8 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 # Useful stuffs
 - [SubmlimeText](http://www.sublimetext.com/) / [Brackets](http://brackets.io/)
 - [Chrome Dev tools](https://developer.chrome.com/devtools) / [Firebug](https://addons.mozilla.org/en-us/firefox/addon/firebug/)
-- [JSBeautifier](www.jsbeautifier.com)
-- [JSLint](www.jslint.com)
+- [JSBeautifier](http://www.jsbeautifier.com)
+- [JSLint](http://www.jslint.com)
 - [Google fonts](http://www.google.com/fonts/)
 - [JSfiddle](https://jsfiddle.net/)
 - [CodePen](http://codepen.io/)
