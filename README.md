@@ -8,7 +8,7 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 
 **Frameworks**
 
-- [AngularJS](https://angularjs.org/) ( Superheroic MVW )
+- [AngularJS](https://angularjs.org/) ( The Superheroic MVW )
 - [Meteor](https://www.meteor.com/) ( Client + Server )
 - [EmberJS](http://emberjs.com/)
 - [Backbone](http://backbonejs.org/) 
@@ -24,7 +24,7 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 
 **Libraries**
 
-- [jQuery](http://jquery.com/) ( Dom manipulation )
+- [jQuery](http://jquery.com/) ( Dom manipulation specialist )
 - [ZeptoJS](http://zeptojs.com/) ( lightweight jquery )
 - [PrototypeJS](http://prototypejs.org/)
 
@@ -116,6 +116,7 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
   - [Browser Diet](http://browserdiet.com/en/)
   - [You might not need jQuery](http://youmightnotneedjquery.com/)
   - [Introduction to webcomponents](https://www.youtube.com/watch?v=fqULJBBEVQE)
+  - [Yeoman grunt bower basics](https://www.youtube.com/watch?v=gKiaLSJW5xI)
 
 # Useful stuffs
 - [SubmlimeText](http://www.sublimetext.com/) / [Brackets](http://brackets.io/)
