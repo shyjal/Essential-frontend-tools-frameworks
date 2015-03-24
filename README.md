@@ -10,8 +10,8 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 
 - [AngularJS](https://angularjs.org/) ( The Superheroic MVW )
 - [Meteor](https://www.meteor.com/) ( Client + Server )
-- [EmberJS](http://emberjs.com/)
-- [Backbone](http://backbonejs.org/) 
+- [EmberJS](http://emberjs.com/) ( Simple templating, used by yahoo, groupon )
+- [Backbone](http://backbonejs.org/) ( Lightweight, fast )
 - [Knockout](http://knockoutjs.com/) ( Simplify dynamic JavaScript UIs with MVVM )
 
 
@@ -26,7 +26,7 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 
 - [jQuery](http://jquery.com/) ( Dom manipulation specialist )
 - [ZeptoJS](http://zeptojs.com/) ( lightweight jquery )
-- [PrototypeJS](http://prototypejs.org/)
+- [PrototypeJS](http://prototypejs.org/) ( Modifications in standard JavaScript and Dom functions )
 
 
 
@@ -49,20 +49,21 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 
 - [Grunt](http://gruntjs.com/) ( Task automator )
 - [Bower](http://bower.io/) ( Package manager like npm )
-- [Gulp](http://gulpjs.com/ "new") ( Automate work flow )
+- [Gulp](http://gulpjs.com/ "new") ( Automates work flow )
 - [Yeoman](http://yeoman.io/) ( Builds scaffolds to start with )
 
-**JS Preprocessors** ( Compiles into normal js )
+**JS Preprocessors** ( Compiles into normal js : less repetition, more manageability)
 
-- [Coffeescript](http://coffeescript.org/) ( The golden rule of CoffeeScript is: "It's just JavaScript". )
+- [Coffeescript](http://coffeescript.org/) ( The golden rule of CoffeeScript is: "It's just JavaScript" )
 - [Typescript](http://www.typescriptlang.org/) ( Typed superset of JS from microsoft )
 
 **Mobile specific**
 
+- [Ionic Framework](http://ionicframework.com/) ( More like angularJS+Bootstrap for mobile)
 - [jQuery Mobile](http://jquerymobile.com/) ( If you know jquery you already know this ) 
 - [Sencha touch](http://www.sencha.com/products/touch/)
 - [HammerJS](http://hammerjs.github.io/) / [QuoJS](http://quojs.tapquo.com/) ( Better touch event handlers )
-- [Ionic Framework](http://ionicframework.com/)
+
 
 
 # CSS
@@ -101,15 +102,16 @@ For more elaborated list goto [Frontend Dev Bookmarks](https://github.com/dypsil
 **Graphic**
 
 - Visualization
-  - [D3](http://d3js.org/) / [C3](http://c3js.org/)
-  - [Raphel](http://raphaeljs.com/)
+  - [ThreeJS](http://threejs.org/) ( Javascript 3D library)
+  - [D3](http://d3js.org/) / [C3](http://c3js.org/) ( Canvas based rendering for data intensive apps )
+  - [Raphel](http://raphaeljs.com/) ( Svg based )
   - [Paper.js](http://paperjs.org/)
   - [amCharts](http://www.amcharts.com/)
 
 - Animation
   - [Move.js](http://visionmedia.github.io/move.js/) ( jQuery like animation with css3 transitions )
-  - [Velocity.js](http://julian.com/research/velocity/)
-  - [Animate.css](http://daneden.github.io/animate.css/)
+  - [Velocity.js](http://julian.com/research/velocity/) ( Best of jQuery and CSS transitions combined )
+  - [Animate.css](http://daneden.github.io/animate.css/) ( Animate with css classes )
 
 **Nice to know**
   - [How Javascript works in browser](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
